@@ -63,11 +63,19 @@ learn-js/
 ├── 8. ES-6-features/                    # Modern JavaScript (ES2015+)
 │
 └── 9. problems-solving/                 # Practical Problem-Solving Patterns
-    ├── JS i. Array-related-prob...md    # Flatten, chunk, rotate, dedupe, merge
-    ├── JS ii. Object-related-prob...md  # Deep clone, merge, diff, path access (`obj.a.b.c`)
-    ├── JS iii. Set-related-prob...md    # Union, intersection, difference, subset checks
-    ├── JS iv. map-related-prob...md     # Invert Map, groupBy, count occurrences
-    └── JS v. string-related-prob...md   # Palindrome, anagram, regex parsing, camelCase/snake_case
+│   ├── JS i. Array-related-prob...md    # Flatten, chunk, rotate, dedupe, merge
+│   ├── JS ii. Object-related-prob...md  # Deep clone, merge, diff, path access (`obj.a.b.c`)
+│   ├── JS iii. Set-related-prob...md    # Union, intersection, difference, subset checks
+│   ├── JS iv. map-related-prob...md     # Invert Map, groupBy, count occurrences
+│   └── JS v. string-related-prob...md   # Palindrome, anagram, regex parsing, camelCase/snake_case
+10. error-handling-and-async/
+├── error-handling.md          # try/catch, throw, custom errors, best practices
+├── async-await.md             # promises, async functions, error handling with async/await
+├── working-with-files.md         # e.g., unhandled rejections, `await` in loops, race conditions
+└── examples/
+    ├── fetch-api-example.js
+    ├── db-operation.js
+    └── retry-mechanism.js
 ```
 
 ---
