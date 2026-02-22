@@ -61,8 +61,6 @@ learn-js/
 │   └── JS functionType.js               # Named, anonymous, arrow, IIFE, generator, async/await — with examples & gotchas
 │
 ├── 8. ES-6-features/                    # Modern JavaScript (ES2015+)
-│   └── *(placeholder for future expansion)*  
-│        e.g., destructuring, modules, classes, promises, optional chaining, nullish coalescing
 │
 └── 9. problems-solving/                 # Practical Problem-Solving Patterns
     ├── JS i. Array-related-prob...md    # Flatten, chunk, rotate, dedupe, merge
@@ -71,8 +69,6 @@ learn-js/
     ├── JS iv. map-related-prob...md     # Invert Map, groupBy, count occurrences
     └── JS v. string-related-prob...md   # Palindrome, anagram, regex parsing, camelCase/snake_case
 ```
-
-> 🔍 **Note**: Files marked `U` (e.g., `i. arrayMethods.md U`) indicate **verified/updated** content. Green checkmarks (`✅`) in the tree denote completed sections.
 
 ---
 
