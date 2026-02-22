@@ -1,4 +1,4 @@
-# JavaScript Data Structure Methods Reference
+# JavaScript Data Structure Methods Reference.
 
 | Array Methods | Object Methods | Map Methods | Set Methods | String Methods |
 |--------------|---------------|------------|------------|---------------|
